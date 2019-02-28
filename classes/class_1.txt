@@ -1,9 +1,9 @@
 -class Food_Now
-    -main_page
-      -categories
-      -user
-      -about_us
+    -main_page(object)
+      -categories(array)
+      -user(string)
+      -about_us(string)
 
-      -edit_user
-      -select_category
-      -shop_nearby
+      -edit_user(array)
+      -select_category(array)
+      -shop_nearby(array)
