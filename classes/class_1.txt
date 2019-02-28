@@ -1,0 +1,9 @@
+-class Food_Now
+    -main_page
+      -categories
+      -user
+      -about_us
+
+      -edit_user
+      -select_category
+      -shop_nearby

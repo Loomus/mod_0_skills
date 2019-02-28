@@ -1,0 +1,11 @@
+class Local_Harvest
+  -Food
+    -produce
+    -organic_produce
+    -bakery
+    -deli
+
+    -add_to_shopping_cart
+    -edit_shopping_cart
+    -add_quantity
+    -enter_delivery_address

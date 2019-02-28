@@ -1,0 +1,11 @@
+class On_The_Go_Foods
+  -Restaurants
+    -Italian
+    -Mexican
+    -Chinese
+    -Indian
+
+    -order_for_pickup
+    -order_for_delivery
+    -edit_shopping_cart
+    -add_tip
