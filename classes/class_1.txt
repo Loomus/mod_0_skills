@@ -1,9 +1,10 @@
 -class Food_Now
     -main_page(object)
+    #Attributes
       -categories(array)
       -user(string)
       -about_us(string)
-
-      -edit_user(array)
-      -select_category(array)
-      -shop_nearby(array)
+    #Methods
+      -edit_user
+      -select_category
+      -shop_nearby

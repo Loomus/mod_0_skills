@@ -1,11 +1,12 @@
 class Local_Harvest
   -Food(Object)
+  #Attributes
     -produce(array)
     -organic_produce(array)
     -bakery(array)
     -deli(array)
-
-    -add_to_shopping_cart(string)
-    -edit_shopping_cart(boolean)
-    -add_quantity(integer)
-    -enter_delivery_address(string)
+  #Methods
+    -add_to_shopping_cart
+    -edit_shopping_cart
+    -add_quantity
+    -enter_delivery_address

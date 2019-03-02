@@ -1,11 +1,12 @@
-class On_The_Go_Foods
+class On_The_Go_Food
   -Restaurants(object)
-    -Italian(string)
-    -Mexican(string)
-    -Chinese(string)
-    -Indian(string)
-
-    -order_for_pickup(boolean)
-    -order_for_delivery(boolean)
-    -edit_shopping_cart(boolean)
-    -add_tip(integer)
+  #Attributes
+    -Italian(boolean)
+    -Mexican(boolean)
+    -Chinese(boolean)
+    -Indian(boolean)
+  #Methods
+    -order_for_pickup
+    -order_for_delivery
+    -edit_shopping_cart
+    -add_tip
