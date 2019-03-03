@@ -1,5 +1,5 @@
 class On_The_Go_Food
-  -Restaurants(object)
+  
   #Attributes
     -Italian(boolean)
     -Mexican(boolean)

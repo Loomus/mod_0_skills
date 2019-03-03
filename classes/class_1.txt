@@ -1,5 +1,5 @@
 -class Food_Now
-    -main_page(object)
+    
     #Attributes
       -categories(array)
       -user(string)

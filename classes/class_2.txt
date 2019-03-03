@@ -1,5 +1,5 @@
 class Local_Harvest
-  -Food(Object)
+
   #Attributes
     -produce(array)
     -organic_produce(array)
